@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "commonjs"
+	},
+	"files": [
+		"./uses_my_module.ts",
+		"./node_modules/my_module/index.d.ts",
+		"./node_modules/my_module/augments.d.ts"
+	]
+}
